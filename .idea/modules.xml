@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch-api/elasticsearch-api.iml" filepath="$PROJECT_DIR$/elasticsearch-api/elasticsearch-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch-server/elasticsearch-server.iml" filepath="$PROJECT_DIR$/elasticsearch-server/elasticsearch-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-elasticSearch-demo.iml" filepath="$PROJECT_DIR$/spring-elasticSearch-demo.iml" />
+    </modules>
+  </component>
+</project>
